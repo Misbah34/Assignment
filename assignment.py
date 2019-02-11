@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb  8 13:52:08 2019
 
 @author: Hp
 """
