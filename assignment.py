@@ -1,6 +1,4 @@
 
-@author: Hp
-"""
 
 import random
 import numpy as np 
